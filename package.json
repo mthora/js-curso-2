@@ -1,0 +1,12 @@
+{
+  "name": "enabler-bank",
+  "version": "1.0.0",
+  "description": "Projeto do curso de Javascript da Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Teixeira",
+  "license": "ISC",
+  "type": "module"
+}
